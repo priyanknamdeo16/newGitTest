@@ -1,3 +1,7 @@
 8899
 1234
 EEEE
+XYZ
+XYZ-line-changed
+abc-added-from-version-line-changed
+another cmmit from version-line-changed
